@@ -7,3 +7,5 @@ The player solves puzzles to unlock doors and escape a series of rooms. Planned 
 
 ## Week 1
 Initial project setup and a simple 2D scene with a placeholder sprite.
+
+![Game screenshot](SCENES/scene1.png)
