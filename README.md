@@ -12,4 +12,4 @@ Initial project setup and a simple 2D scene with a placeholder sprite.
 
 ## Week 2
 Have puzzle logic now, such as the room and the different colored buttons with the door being open when the correct sequence is entered.
-![Game screenshot](SCENES/scene2.png)
+![Game screenshot](SCENES/SCENE2.png)
